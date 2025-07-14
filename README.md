@@ -1,5 +1,4 @@
 # devops-journey
-# devops-journey
 <p align="right">
   <img src="https://img.shields.io/badge/status-learning-blue" />
   <img src="https://img.shields.io/badge/focus-DevOps%20Engineer-orange" />
