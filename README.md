@@ -1,4 +1,8 @@
 # devops-journey
+![Status](https://img.shields.io/badge/status-learning-blue)
+![Role](https://img.shields.io/badge/focus-DevOps%20Engineer-orange)
+![Progress](https://img.shields.io/badge/progress-week_1-grey)
+
 A 10-week DevOps learning roadmap with hands-on projects, tools, and certifications. Documenting my transition into DevOps from an engineering background.
 
 # 🚀 DevOps Learning Journey (2025)
@@ -32,11 +36,12 @@ Hi! I'm transitioning into DevOps from an aerospace engineering background. This
 ---
 
 ## 📁 Project Repository Links (To Be Added)
-- `CI/CD Pipeline:` [link here]
-- `Docker App:` [link here]
-- `Kubernetes Deployment:` [link here]
-- `Terraform Infrastructure:` [link here]
-- `Monitoring Dashboard:` [link here]
+## 📁 Project Repository Links (To Be Added)
+- [ ] `CI/CD Pipeline:` [link here]
+- [ ] `Docker App:` [link here]
+- [ ] `Kubernetes Deployment:` [link here]
+- [ ] `Terraform Infrastructure:` [link here]
+- [ ] `Monitoring Dashboard:` [link here]
 
 ---
 
