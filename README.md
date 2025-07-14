@@ -1,7 +1,10 @@
 # devops-journey
-![Status](https://img.shields.io/badge/status-learning-blue)
-![Role](https://img.shields.io/badge/focus-DevOps%20Engineer-orange)
-![Progress](https://img.shields.io/badge/progress-week_1-grey)
+# devops-journey
+<p align="right">
+  <img src="https://img.shields.io/badge/status-learning-blue" />
+  <img src="https://img.shields.io/badge/focus-DevOps%20Engineer-orange" />
+  <img src="https://img.shields.io/badge/progress-week_1-grey" />
+</p>
 
 A 10-week DevOps learning roadmap with hands-on projects, tools, and certifications. Documenting my transition into DevOps from an engineering background.
 
