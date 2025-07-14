@@ -36,7 +36,6 @@ Hi! I'm transitioning into DevOps from an aerospace engineering background. This
 ---
 
 ## 📁 Project Repository Links (To Be Added)
-## 📁 Project Repository Links (To Be Added)
 - [ ] `CI/CD Pipeline:` [link here]
 - [ ] `Docker App:` [link here]
 - [ ] `Kubernetes Deployment:` [link here]
