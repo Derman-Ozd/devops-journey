@@ -1,4 +1,4 @@
-#Linux Notes
-- pwd
-ls
+# Linux Notes
+- pwd (print working directory)
+- ls (list directory contents)
 - cd (change directory)
