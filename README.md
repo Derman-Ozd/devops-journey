@@ -24,7 +24,7 @@ Hi! I'm transitioning into DevOps from an aerospace engineering background. This
 
 | Week | Topic                        | Key Tasks / Goals                                                                 | Status      |
 |------|-----------------------------|------------------------------------------------------------------------------------|-------------|
-| 1    | Linux & Git Basics          | Shell navigation, Git basics, first repo                                          | ⬜ Not Started |
+| 1    | Linux & Git Basics          | Shell navigation, Git basics, first repo                                          | ✅ Complete |
 | 2    | Python for DevOps           | Scripting, file automation, push scripts to GitHub                                | ⬜ Not Started |
 | 3    | Bash & Cloud Basics         | Bash scripting, AWS EC2 instance                                                  | ⬜ Not Started |
 | 4    | Docker                      | Dockerize a Python/Node app, push Dockerfile                                      | ⬜ Not Started |
