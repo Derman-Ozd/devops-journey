@@ -1,2 +1,2 @@
-Git Notes
-- git init (initialise repository)
+# Git Notes
+- git init (initialise a new repository)
